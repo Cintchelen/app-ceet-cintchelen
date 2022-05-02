@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "CeetApp",
+    "slug": "CeetApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "orientation": "portrait",
+    "icon": "./assets/imagens/icon.png",
+    "splash":{
+      "image":"./assets/imagens/splash.png",
+      "resizeMode":"cover",
+    "backgroundColor": "#000"    }
+  }
+}
